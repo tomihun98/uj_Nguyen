@@ -1,0 +1,79 @@
+{
+	"info": {
+		"_postman_id": "758a21fd-90b6-4815-92c7-d43553b7626a",
+		"name": "gyakorlocovid",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42461858"
+	},
+	"item": [
+		{
+			"name": "New request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080",
+					"host": [
+						"localhost"
+					],
+					"port": "8080"
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/c",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"c"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/c2",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"c2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/c1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"c1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
